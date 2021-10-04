@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://thebestshoppja.vercel.app/top2.xml
+Sitemap: https://thebestshoppja.vercel.app/top3.xml
